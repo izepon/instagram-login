@@ -30,10 +30,12 @@ body {
     align-items: center;
     justify-content: center;
     width: 50%;
+    
 }
 
 .instagram-phone img {
     height: 50rem;
+        
 }
 
 .instagram-continue {
@@ -74,16 +76,18 @@ body {
 
 .profile-photo img {
     height: 8rem;
+    
 }
 
 .instagram-login {
     background-color: #0095f6;
     color: #ffffff;
     padding: 8px;
+    margin: 5px;
     border-radius: 4px;
 }
 
-.instagram-logout{
+.instagram-logout {
     color: #0095f6;
     margin-top: 1rem;
 }
